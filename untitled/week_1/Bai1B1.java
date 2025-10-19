@@ -19,4 +19,3 @@
             System.out.println("Chia du hai so nguyen la: "+du);
         }
     }
-
